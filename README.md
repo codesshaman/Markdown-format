@@ -10,7 +10,6 @@
 + [Цитаты](https://github.com/AndreyKozhev/Markdown-format#цитаты "Цитаты")
 + [Эмодзи](https://github.com/AndreyKozhev/Markdown-format#эмодзи "Эмодзи")
 + [HTML](https://github.com/AndreyKozhev/Markdown-format#html "HTML")
-+ [Новая строка](https://github.com/AndreyKozhev/Markdown-format#новая-строка "Новая строка")
 ### Заголовки
 ```
 # 1 уровень
@@ -109,5 +108,3 @@ alert(s);
     <h1>Это заголовок</h1>
     <h2>Тоже заголовок</h2>
 </dl>
-### Новая строка
-Для создания новой строки, поставьте после неё 2 пробела и нажмите Enter.
