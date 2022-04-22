@@ -1,6 +1,7 @@
 # Синтаксис Markdown
+[Примеры эмодзи](https://github.com/AndreyKozhev/Markdown-format#заголовки "Примеры эмодзи")
 ## Оглавление
-+ [Заголовки](https://github.com/AndreyKozhev/Markdown-format#заголовки "Заголовки")
++ [Заголовки](../emoji_example.md "Заголовки")
 + [Выделение](https://github.com/AndreyKozhev/Markdown-format#выделение "Выделение")
 + [Списки](https://github.com/AndreyKozhev/Markdown-format#списки "Списки")
 + [Ссылки](https://github.com/AndreyKozhev/Markdown-format#ссылки "Ссылки")
