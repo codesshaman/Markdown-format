@@ -1,17 +1,17 @@
 # Синтаксис Markdown
 ## Оглавление
-+ Заголовки
-+ Выделение
-+ Списки
-+ Ссылки
-+ Изображения
-+ Блоки кода
-+ Таблицы
-+ Цитаты
-+ Эмодзи
-+ HTML
-+ Горизонтальная черта
-+ Новая строка
++ [Заголовки](https://github.com/AndreyKozhev/Markdown-format#заголовки "Заголовки")
++ [Выделение](https://github.com/AndreyKozhev/Markdown-format#выделение "Выделение")
++ [Списки](https://github.com/AndreyKozhev/Markdown-format#списки "Списки")
++ [Ссылки](https://github.com/AndreyKozhev/Markdown-format#ссылки "Ссылки")
++ [Изображения](https://github.com/AndreyKozhev/Markdown-format#изображения "Изображения")
++ [Блоки кода](https://github.com/AndreyKozhev/Markdown-format#блоки-кода "Блоки кода")
++ [Таблицы](https://github.com/AndreyKozhev/Markdown-format#таблицы "Таблицы")
++ [Цитаты](https://github.com/AndreyKozhev/Markdown-format#цитаты "Цитаты")
++ [Эмодзи](https://github.com/AndreyKozhev/Markdown-format#эмодзи "Эмодзи")
++ [HTML](https://github.com/AndreyKozhev/Markdown-format#html "HTML")
++ [Горизонтальная черта](https://github.com/AndreyKozhev/Markdown-format#горизонтальная-черта "Горизонтальная черта")
++ [Новая строка](https://github.com/AndreyKozhev/Markdown-format#новая-строка "Новая строка")
 ### Заголовки
 ```
 # 1 уровень
@@ -53,9 +53,9 @@
 [Обычная ссылка с заголовком](https://www.google.com "Google")
 [Относительная ссылка на документ](../blob/master/LICENSE)
 ```
-[Обычная ссылка в строке](https://www.google.com)
-[Обычная ссылка с заголовком](https://www.google.com "Google")
-[Относительная ссылка на документ](../blob/master/LICENSE)
+[Обычная ссылка в строке](https://www.google.com)  
+[Обычная ссылка с заголовком](https://www.google.com "Google")  
+[Относительная ссылка на документ](../blob/master/LICENSE)  
 ### Изображения
 ```
 ![alt-текст](https://img.shields.io/badge/Platform-Windows-blue "Заголовок")
