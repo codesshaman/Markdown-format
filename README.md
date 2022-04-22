@@ -25,11 +25,13 @@
 #### 4 уровень
 ##### 5 уровень
 ###### 6 уровень
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Выделение
 *Курсив* - ```*Курсив*```  
 **Полужирный** - ```**Полужирный**```  
 ***Полужирный курсив*** - ```***Полужирный курсив***```  
 ~~Зачёркнутый~~ - ```~~Зачёркнутый~~```
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Списки
 ```
 + 1 уровень, 1 элемент
@@ -45,6 +47,7 @@
         * 3 уровень, 1 элемент
 + 1 уровень,3 элемент
     1. Нумерованный список, 2 уровень, 1 элемент
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Ссылки
 ```
 [Обычная ссылка в строке](https://www.google.com)
@@ -53,12 +56,14 @@
 ```
 [Обычная ссылка в строке](https://www.google.com)  
 [Обычная ссылка с заголовком](https://www.google.com "Google")  
-[Относительная ссылка на документ](../blob/master/LICENSE)  
+[Относительная ссылка на документ](../blob/master/LICENSE) 
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Изображения
 ```
 ![alt-текст](https://img.shields.io/badge/Platform-Windows-blue "Заголовок")
 ```
 ![alt-текст](https://img.shields.io/badge/Platform-Windows-blue "Заголовок")
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Блоки кода
 ```
 Код пишется между тремя обратными апострофами(`)
@@ -68,6 +73,7 @@
 var s = 3;
 alert(s);
 ```
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Таблицы
 ```
 |  Заголовок 1  |  Заголовок 2 | Заголовок 3 |
@@ -81,6 +87,7 @@ alert(s);
 | строка 1      | строка1   | строка 1       |
 | строка 2      | строка 2  |   строка 2     |
 | строка 3      | строка 3  |   строка 3     |
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Цитаты
 ```
 >уровень 1
@@ -88,6 +95,7 @@ alert(s);
 ```
 >уровень 1
 >>уровень 2
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Эмодзи
 ```
 :название-эмодзи:
@@ -95,6 +103,7 @@ alert(s);
 :octocat:
 ```
 :octocat:
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### HTML
 ```html
 <dl>
@@ -106,3 +115,4 @@ alert(s);
     <h1>Это заголовок</h1>
     <h2>Тоже заголовок</h2>
 </dl>
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
