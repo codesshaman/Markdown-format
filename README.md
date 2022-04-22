@@ -30,7 +30,7 @@
 *Курсив* - ```*Курсив*```  
 **Полужирный** - ```**Полужирный**```  
 ***Полужирный курсив*** - ```***Полужирный курсив***```  
-~~Зачёркнутый~~ - ```~~Зачёркнутый~~```
+~~Зачёркнутый~~ - ```~~Зачёркнутый~~```  
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Списки
 ```
@@ -56,18 +56,18 @@
 ```
 [Обычная ссылка в строке](https://www.google.com)  
 [Обычная ссылка с заголовком](https://www.google.com "Google")  
-[Относительная ссылка на документ](../blob/master/LICENSE) 
+[Относительная ссылка на документ](../blob/master/LICENSE)  
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Изображения
 ```
 ![alt-текст](https://img.shields.io/badge/Platform-Windows-blue "Заголовок")
 ```
-![alt-текст](https://img.shields.io/badge/Platform-Windows-blue "Заголовок")
+![alt-текст](https://img.shields.io/badge/Platform-Windows-blue "Заголовок")  
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Блоки кода
 ```
 Код пишется между тремя обратными апострофами(`)
-Если необходимо, после первых 3 тильд можно указать язык программирования
+Если необходимо, после первых 3 апострофов можно указать язык программирования
 ```
 ```js
 var s = 3;
@@ -102,7 +102,7 @@ alert(s);
 Пример:
 :octocat:
 ```
-:octocat:
+:octocat:  
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### HTML
 ```html
