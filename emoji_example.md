@@ -98,4 +98,4 @@
 :wrench:`:wrench:`  
 :credit_card:`:credit_card:`  
 :clapper:`:clapper:`  
-Это были 100 лучших эмодзи и их коды для вставки в Markdown. Инструкция по вставке:[ссылка](https://github.com/AndreyKozhev/Markdown-format#%D1%8D%D0%BC%D0%BE%D0%B4%D0%B7%D0%B8../Markdown-format#эмодзи)
+Это были 100 лучших эмодзи и их коды для вставки в Markdown. Инструкция по вставке: [ссылка](../main/README.md#эмодзи)
