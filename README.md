@@ -1,4 +1,6 @@
 # Синтаксис Markdown
+![Изображение](../main/image-1.png "Изображение")
+## Ссылки
 [Примеры эмодзи](../main/emoji_example.md "Примеры эмодзи")
 ## Оглавление
 + [Заголовки](https://github.com/AndreyKozhev/Markdown-format#заголовки "Заголовки")
