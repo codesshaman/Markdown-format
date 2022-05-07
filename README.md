@@ -55,7 +55,7 @@
 ### Ссылки
 ```
 [Обычная ссылка в строке](https://www.google.com)
-[Обычная ссылка с заголовком](https://www.google.com "Google")
+[Обычная ссылка с title](https://www.google.com "Google")
 [Относительная ссылка на документ](../blob/master/LICENSE)
 ```
 [Обычная ссылка в строке](https://www.google.com)  
