@@ -13,6 +13,7 @@
 + [Цитаты](https://github.com/AndreyKozhev/Markdown-format#цитаты "Цитаты")
 + [Эмодзи](https://github.com/AndreyKozhev/Markdown-format#эмодзи "Эмодзи")
 + [HTML](https://github.com/AndreyKozhev/Markdown-format#html "HTML")
++ [Списки задач](https://github.com/AndreyKozhev/Markdown-format#списки-задач)
 ### Заголовки
 ```
 # 1 уровень
@@ -123,3 +124,4 @@ alert(s);
 </dl>  
 
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
+###
