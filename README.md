@@ -14,6 +14,7 @@
 + [Эмодзи](https://github.com/AndreyKozhev/Markdown-format#эмодзи "Эмодзи")
 + [HTML](https://github.com/AndreyKozhev/Markdown-format#html "HTML")
 + [Списки задач](https://github.com/AndreyKozhev/Markdown-format#списки-задач)
++ [Разделительная черта](https://github.com/AndreyKozhev/Markdown-format/edit/main/README.md#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%87%D0%B5%D1%80%D1%82%D0%B0)
 ### Заголовки
 ```
 # 1 уровень
@@ -131,3 +132,10 @@ alert(s);
 ```
 - [x] Отмечено
 - [ ] Неотмечено
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
+### Разделительная черта
+```
+***
+```
+***
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
