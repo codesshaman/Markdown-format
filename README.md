@@ -15,6 +15,7 @@
 + [HTML](https://github.com/AndreyKozhev/Markdown-format#html "HTML")
 + [Списки задач](https://github.com/AndreyKozhev/Markdown-format#списки-задач)
 + [Разделительная черта](https://github.com/AndreyKozhev/Markdown-format#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%87%D0%B5%D1%80%D1%82%D0%B0)
++ [Блоки Примечание и Предупреждение](https://github.com/AndreyKozhev/Markdown-format#%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D1%83%D0%BF%D1%80%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5 "Блоки Примечание и Предупреждение")
 ### Заголовки
 ```
 # 1 уровень
@@ -139,4 +140,27 @@ alert(s);
 ***
 ```
 ***
+[Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
+### Блоки Примечание и Предупреждение
+Первая буква чуствительна к регистру!
+
+На данный момент эта функция находится в стадии бета-тестирования и может быть изменена.
+
+На данный момент заголовки будут на английском.
+
+```
+> **Note**
+> Это примечание
+
+> **Warning**
+> Это предупреждение
+```
+> **Note**
+> Это примечание
+
+> **Warning**
+> Это предупреждение
+
+Источник: https://github.com/github-community/community/discussions/16925
+
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
