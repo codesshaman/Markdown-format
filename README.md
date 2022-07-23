@@ -1,4 +1,7 @@
-# Синтаксис Markdown
+<h1 align="center">
+    Синтаксис Markdown
+</h1>
+
 ![Изображение](../main/image-1.png "Изображение")
 ## Ссылки
 [Примеры эмодзи](../main/emoji_example.md "Примеры эмодзи")
