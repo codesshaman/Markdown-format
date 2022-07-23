@@ -4,9 +4,9 @@
 
 ![Изображение](../main/image-1.png "Изображение")
 <p align="center">
-<img src="https://custom-icon-badges.herokuapp.com/github/stars/AndreyKozhev/markdown-format?logo=star"/>
-<img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/AndreyKozhev/markdown-format?logo=issue"/>
-<img src="https://custom-icon-badges.herokuapp.com/github/last-commit/AndreyKozhev/markdown-format?logo=history&logoColor=white"/>
+    <img src="https://custom-icon-badges.herokuapp.com/github/stars/AndreyKozhev/markdown-format?logo=star"/>
+    <img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/AndreyKozhev/markdown-format?logo=issue"/>
+    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/AndreyKozhev/markdown-format?logo=history&logoColor=white"/>
 </p>
 
 ## Ссылки
