@@ -169,6 +169,20 @@ alert(s);
 
 > **Warning**
 > Это предупреждение
+### Обходной путь
+```
+> **Note** <br>
+> Это примечание
+
+> **Warning** <br>
+> Это предупреждение
+```
+> **Note** <br>
+> Это примечание
+
+> **Warning** <br>
+> Это предупреждение
+
 
 Источник: https://github.com/github-community/community/discussions/16925
 
