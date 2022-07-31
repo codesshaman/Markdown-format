@@ -189,3 +189,7 @@ alert(s);
 Источник: https://github.com/github-community/community/discussions/16925
 
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/103951737/182025744-6a8127d2-2db1-422e-aab7-487eb588b733.svg"/>
+</p>
