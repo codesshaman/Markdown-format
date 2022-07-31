@@ -2,6 +2,11 @@
     Синтаксис Markdown
 </h1>
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/103951737/182025744-6a8127d2-2db1-422e-aab7-487eb588b733.svg"/>
+    <img src="https://user-images.githubusercontent.com/103951737/182025994-9e26ba71-b6d9-471e-851b-8ff69033e07f.svg"/>
+</p>
+
 ![Изображение](../main/image-1.png "Изображение")
 <p align="center">
     <img src="https://user-images.githubusercontent.com/103951737/182025744-6a8127d2-2db1-422e-aab7-487eb588b733.svg"/>
@@ -192,4 +197,5 @@ alert(s);
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/103951737/182025744-6a8127d2-2db1-422e-aab7-487eb588b733.svg"/>
+    <img src="https://user-images.githubusercontent.com/103951737/182025994-9e26ba71-b6d9-471e-851b-8ff69033e07f.svg"/>
 </p>
