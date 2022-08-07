@@ -101,10 +101,14 @@
     var s = 3;
     alert(s);
     ```
+    Если код помещается на одной строке то можно писать так:
+    `alert("hello");`
 ```js
 var s = 3;
 alert(s);
 ```
+`alert("hello");`
+
 [Оглавление](https://github.com/AndreyKozhev/Markdown-format#оглавление "Оглавление")
 ### Таблицы
 ```
