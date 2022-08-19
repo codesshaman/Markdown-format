@@ -9,11 +9,9 @@
 
 ![Изображение](../main/image-1.png "Изображение")
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/103951737/182025744-6a8127d2-2db1-422e-aab7-487eb588b733.svg"/>
     <img src="https://custom-icon-badges.herokuapp.com/github/stars/AndreyKozhev/markdown-format?logo=star"/>
     <img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/AndreyKozhev/markdown-format?logo=issue"/>
     <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/AndreyKozhev/markdown-format?logo=history&logoColor=white"/>
-    <img src="https://user-images.githubusercontent.com/103951737/182025744-6a8127d2-2db1-422e-aab7-487eb588b733.svg"/>
 </p>
 
 ## Ссылки
