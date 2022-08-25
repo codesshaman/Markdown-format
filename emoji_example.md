@@ -1,4 +1,4 @@
-# Эмодзи
+# Примеры эмодзи
 :octocat:`:octocat:`  
 :hand:`:hand:`  
 :email:`:email:`  
