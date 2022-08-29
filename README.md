@@ -7,7 +7,7 @@
     <img src="https://user-images.githubusercontent.com/103951737/182025994-9e26ba71-b6d9-471e-851b-8ff69033e07f.svg"/>
 </p>
 
-![Изображение](../main/image-1.png "Изображение")
+![Image](https://user-images.githubusercontent.com/103951737/187148417-fe91f5d9-4d93-4b1c-b5b6-cf2e1b99e42c.png)
 <p align="center">
     <img src="https://custom-icon-badges.herokuapp.com/github/stars/AndreyKozhev/markdown-format?logo=star"/>
     <img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/AndreyKozhev/markdown-format?logo=issue"/>
